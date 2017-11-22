@@ -1,0 +1,5 @@
+What can you conclude about the optimal setting of N? Explain your answer
+
+N with size 15 and 25 both give correct result but 5 give wrong result because the signal is not smoothed enough 
+so there are more than one peak near each other. so the optimal value of N could be from 15 as 15 gives clear peak. 
+N sholud be set approximately the same as the widest possible QRS complex so maybe 25 is good.
