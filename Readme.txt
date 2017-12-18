@@ -1,4 +1,4 @@
-**Differentiate function -> (diffrentiate.m file)
+Differentiate function -> (diffrentiate.m file)
 	differentaiate((1/f),filtered signal);
 	to overcome baseline drifts is to differentiate the ECG signal.
 	this function use the 5-point difference equation y(nT) =(1/8T)[-x(nT-2T)-2x(nT-T)+2x(nT+T)+x(nT+2T)].
